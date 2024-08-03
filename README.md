@@ -70,7 +70,6 @@ Blogging-Website/
 - **static/**: Contains static files like CSS.
     - **style.css:** Custom CSS for additional styling.
 - **posts.json:** JSON file to store blog posts data.
-- **requirements.txt:** Contains the list of required packages.
 
 ## Screenshots
 
