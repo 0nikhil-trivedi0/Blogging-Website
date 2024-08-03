@@ -45,18 +45,12 @@ Blogging-Website/
         ```bash
         source venv/bin/activate
         ```
-
-4. **Install the required packages:**
-    ```bash
-    pip install -r requirements.txt
-    ```
-
-5. **Run the Flask app:**
+4. **Run the Flask app:**
     ```bash
     python app.py
     ```
 
-6. **Open the app in your browser:**
+5. **Open the app in your browser:**
     Open `http://127.0.0.1:5000/` in your browser.
 
 ## Usage
