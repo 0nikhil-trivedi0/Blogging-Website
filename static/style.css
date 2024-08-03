@@ -1,0 +1,27 @@
+body {
+    padding-top: 56px;
+}
+
+.jumbotron {
+    background: url('https://source.unsplash.com/random/1920x1080') no-repeat center center;
+    background-size: cover;
+    color: white;
+    height: 50vh;
+    display: flex;
+    flex-direction: column;
+    justify-content: center;
+}
+
+.jumbotron .btn {
+    background-color: rgba(0, 123, 255, 0.8);
+    border: none;
+}
+
+.card {
+    box-shadow: 0 4px 8px rgba(0, 0, 0, 0.1);
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-10px);
+}

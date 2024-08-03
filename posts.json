@@ -1,0 +1,23 @@
+[
+    {
+        "id": 1,
+        "title": "First Blog Post",
+        "content": "This is the content of the first blog post. It's a simple introduction to the blogging website.",
+        "author": "Nikhil Trivedi",
+        "date": "2024-08-03 10:00:00"
+    },
+    {
+        "id": 2,
+        "title": "Second Blog Post",
+        "content": "This is the content of the second blog post. We can talk about more advanced topics here.",
+        "author": "Nikhil Trivedi",
+        "date": "2024-08-04 12:00:00"
+    },
+    {
+        "id": 3,
+        "title": "Another Blog Post",
+        "content": "Here is another blog post to show the flexibility of the blogging platform.",
+        "author": "Nikhil Trivedi",
+        "date": "2024-08-05 15:00:00"
+    }
+]
